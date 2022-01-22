@@ -1,0 +1,10 @@
+name: Holograms
+version: '${project.version}'
+main: com.trobanko.holograms.Holograms
+api-version: 1.18
+authors: [ Trobanko ]
+description: Allows you to create cool holograms
+commands:
+  hologram:
+    description: Spawns in a holograms
+    usage: /<command> [add|remove]
